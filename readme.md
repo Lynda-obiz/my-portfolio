@@ -4,7 +4,6 @@
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
@@ -22,10 +21,7 @@ This is my first Portfolio.
 
 ### Links
 
-- Live Site URL: (https://lynda-obiz.github.io/clipboard-landing-page/)
-
-## My process
-My process was hectiic one but i enjoyed every bit of the process in building my portfolio.
+- Live Site URL: (https://lynda-obiz.github.io/my-portfolio/)
 
 ### Built with
 
@@ -37,7 +33,7 @@ My process was hectiic one but i enjoyed every bit of the process in building my
 
 ### What I learned
 
-Working on this project i learnt using bootstrap and using media query for it to be fully responsive for various devices.
+Working on this project i learnt about using bootstrap and  media query for responsiveness.
 
 ## Author
 
