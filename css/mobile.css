@@ -1,0 +1,156 @@
+/* body  */
+.my-portfolio{
+    font-size: 1rem;
+}
+/* navbar and first page  */
+.logo-animation{
+    transform: translateX(1.5rem);
+    font-size: 1rem !important;
+}
+.text-top{
+    transform: translateX(1.5rem);
+}
+.header-text a{
+    font-size: 1rem !important;
+}
+.top-header{
+    overflow-x: hidden;
+}
+
+/* first page  */
+.first-page{
+    margin: 0rem !important;
+    text-align: center;
+}
+.first-page h1{
+    padding-top: 7rem;
+    font-size: 3rem;
+    margin: 0rem;
+    padding-bottom: 1rem;
+}
+.first-page p {
+    text-transform: capitalize;
+    font-size: 1.2rem;
+}
+.first-click{
+    padding-bottom: 7rem;
+}
+.first-click a{
+    letter-spacing: 1px;
+}
+
+
+/* about  */
+#about{
+    text-align: center;
+}
+.about-wrap{
+    margin: 0rem !important;
+    padding: 0rem !important;
+}
+
+#about p{
+    padding: 0 1.5rem;
+}
+.about-wrap h2{
+    padding-bottom: 1rem;
+}
+.second-click{
+    padding-bottom: 5rem;
+}
+
+/* my picture */
+.picture img{
+    top: -70px !important;
+    left: -25px !important;
+}
+
+/* skill  */
+.my-skill{
+    text-align: center;
+    margin: auto;
+    width: 350px;
+}
+.progress-title{
+    text-align: start;
+}
+.skill-wrap{
+    text-align: center;
+    margin: auto;
+} 
+.progress{
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+
+}
+
+
+/* work  */
+.work-cards{
+    width: 300px;
+    margin: auto;
+    
+}
+
+/* contact  */
+#contact .contact-cover {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 400px;
+    grid-gap: 0rem 0rem;
+    text-align: center;
+}
+.contact-content{
+    width: 100%;
+    margin: 0 auto;
+}
+.text-contact{
+    margin-bottom: 0rem;
+}
+#contact h2{
+    padding: 1rem 0rem;
+}
+
+.message-box{
+   text-align: center;
+   display: block;
+   justify-content: center;
+   padding-left: 0rem !important;
+   align-items: center;
+   max-width: 400px;
+   margin: 0 auto !important;
+   max-width: 100%;
+   justify-content: center;
+   align-items: center;
+}
+
+/* footer */
+.footer-content{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.social{
+    display: inline-block;
+}
+
+/* arrow-up  */
+.arrow-up{
+   position: fixed;
+   bottom: 1rem;
+   right: 0.5rem;
+   z-index: 20000;
+}
+.arrow-up a{
+    color: #cb6608;
+    cursor: pointer;
+}
+.arrow-up a:hover{
+    color: rgb(161, 161, 199);
+}
+
+ 
+
+ 
